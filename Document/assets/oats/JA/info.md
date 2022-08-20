@@ -1,0 +1,25 @@
+### OWASP 自動化された脅威
+
+* [OAT-020 アカウント集約 (Account Aggregation)](OAT-020_Account_Aggregation.md)
+* [OAT-019 アカウント作成 (Account Creation)](OAT-019_Account_Creation.md)
+* [OAT-003 広告偽装 (Ad Fraud)](OAT-003_Ad_Fraud.md)
+* [OAT-009 CAPTCHA 破り (CAPTCHA Defeat)](OAT-009_CAPTCHA_Defeat.md)
+* [OAT-010 カードクラッキング (Card Cracking)](OAT-010_Card_Cracking.md)
+* [OAT-001 カード試行 (Carding)](OAT-001_Carding.md)
+* [OAT-012 現金引き出し (Cashing Out)](OAT-012_Cashing_Out.md)
+* [OAT-007 認証情報クラッキング (Credential Cracking)](OAT-007_Credential_Cracking.md)
+* [OAT-008 認証情報スタッフィング (Credential Stuffing)](OAT-008_Credential_Stuffing.md)
+* [OAT-021 在庫拒否 (Denial of Inventory)](OAT-021_Denial_of_Inventory.md)
+* [OAT-015 サービス拒否 (Denial of Service)](OAT-015_Denial_of_Service.md)
+* [OAT-006 高速化 (Expediting)](OAT-006_Expediting.md)
+* [OAT-004 指紋採取 (Fingerprinting)](OAT-004_Fingerprinting.md)
+* [OAT-018 足跡採取 (Footprinting)](OAT-018_Footprinting.md)
+* [OAT-005 スキャルピング (Scalping)](OAT-005_Scalping.md)
+* [OAT-011 スクレイピング (Scraping)](OAT-011_Scraping.md)
+* [OAT-016 スキューイング (Skewing)](OAT-016_Skewing.md)
+* [OAT-013 狙撃 (Sniping)](OAT-013_Sniping.md)
+* [OAT-017 スパム行為 (Spamming)](OAT-017_Spamming.md)
+* [OAT-002 トークンクラッキング (Token Cracking)](OAT-002_Token_Cracking.md)
+* [OAT-014 脆弱性スキャン (Vulnerability Scanning)](OAT-014_Vulnerability_Scanning.md)
+
+[OWASP ウェブアプリケーションに対する自動化された脅威プロジェクト](../../../) を参照。
