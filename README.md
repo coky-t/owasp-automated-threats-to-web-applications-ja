@@ -9,7 +9,7 @@ This is the unofficial Japanese translation of the [OWASP Automated Threats to W
 
 # OWASP ウェブアプリケーションに対する自動化された脅威 日本語版
 
-* [WASP ウェブアプリケーションに対する自動化された脅威](Document/index.md)
+* [OWASP ウェブアプリケーションに対する自動化された脅威](Document/index.md)
 * [範囲と定義](Document/tab_scope.md)
 * [ユースケースシナリオ](Document/tab_usecases.md)
 * [オントロジー](Document/tab_ontology.md)
