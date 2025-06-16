@@ -2,6 +2,9 @@
 
 This is the unofficial Japanese translation of the [OWASP Automated Threats to Web Applications](https://owasp.org/www-project-automated-threats-to-web-applications/).
 
+- Document Site - <https://coky-t.gitbook.io/owasp-automated-threats-to-web-applications-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-automated-threats-to-web-applications-ja>
+
 ### Originator
 
 - Project Site - <https://owasp.org/www-project-automated-threats-to-web-applications/>
@@ -26,3 +29,6 @@ This is the unofficial Japanese translation of the [OWASP Automated Threats to W
 ## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
+
+- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-docs-ja>
