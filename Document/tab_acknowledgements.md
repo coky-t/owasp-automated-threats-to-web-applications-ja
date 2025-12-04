@@ -11,12 +11,13 @@ tags: oat
 
 ### 寄稿者
 * Sumit Agarwal
+* Areejit Banerjee
 * Jason Chan
 * Mark Hall
 * Omri Iluz
-* Shunji Matsuzawa
-* Jarrod Overson
 * José Santos Martins Pereira
+* Shunji Matsuzawaz
+* Jarrod Overson
 * Andrew van der Stock
 * Frank Walsh
 * Roland Weber
