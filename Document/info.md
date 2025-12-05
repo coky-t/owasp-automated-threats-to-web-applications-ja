@@ -1,5 +1,7 @@
+![Cover image of the OWASP Automated Threat Handbook](assets/images/automatedThreatHandbook_small.jpg)
+
 ### クイックリンク
-* [フリーハンドブックを PDF でダウンロードする](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN) または [印刷版を購入する](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html)
+* [フリーハンドブックを PDF でダウンロードする](https://github.com/OWASP/www-project-automated-threats-to-web-applications/tree/master/assets/files/EN)
 
 ### これは何ですか？
 * ウェブアプリケーションのオーナーが自動化された脅威から防御するのに役立つ情報とリソースです
@@ -25,10 +27,6 @@
 
 ### プレゼンテーション
 * [![Title slide of presentation](assets/images/automatedthreats-presentation-small.jpg)](assets/files/Bots-AppSecUSA2017-Project-Summit.pptx)
-
-### 印刷物
-* [![Cover image of the OWASP Automated Threat Handbook](assets/images/automatedThreatHandbook_small.jpg)](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html)
-* Automated Threat Handbook は [プリントオンデマンドブック](http://www.lulu.com/shop/owasp-foundation/automated-threat-handbook/paperback/product-23540699.html) として有料で購入できます。
 
 ### ライセンス
 
