@@ -35,10 +35,11 @@ OAT-019
 ### 関連項目
 * [OAT-007 認証情報クラッキング (Credential Cracking)](OAT-007_Credential_Cracking.md)
 * [OAT-008 認証情報スタッフィング (Credential Stuffing)](OAT-008_Credential_Stuffing.md)
+* [OAT-017 スパム行為 (Spamming)](OAT-017_Spamming.md)
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
