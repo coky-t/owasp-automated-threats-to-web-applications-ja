@@ -32,8 +32,8 @@ CAPTCHA 破り (CAPTCHA Defeat)
 CAPTCHA 解除 (Breaking CAPTCHA; CAPTCHA breaker; CAPTCHA breaking); CAPTCHA 回避 (CAPTCHA bypass); CAPTCHA 解読 (CAPTCHA decoding); CAPTCHA ソルバー (CAPTCHA solver); CAPTCHA 解法 (CAPTCHA solving); パズル解法 (Puzzle solving)
 
 ### 関連項目
-* [OAT-006 高速化 (Expediting)](OAT-006_Expediting.html)
-* [OAT-011 スクレイピング (Scraping)](OAT-011_Scraping.html)
+* [OAT-006 高速化 (Expediting)](OAT-006_Expediting.md)
+* [OAT-011 スクレイピング (Scraping)](OAT-011_Scraping.md)
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
