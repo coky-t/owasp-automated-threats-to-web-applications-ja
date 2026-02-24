@@ -30,7 +30,7 @@ OAT-018
 
 
 ### 他の名称や事例
-アプリケーション解析 (Application analysis); API 発見 (API discovery); アプリケーション列挙 (Application enumeration); 自動スキャン (Automated scanning); CGI スキャン (CGI scanning); クローラー (Crawler); クローリング (Crawling); 発掘 (Excavation); 強制ブラウジング (Forced browsing; Forceful browsing); ファジング (Fuzzing); マイクロサービス発見 (Micro service discovery); スキャン (Scanning); スパイダリング (Spidering); WSDL スキャン (WSDL scanning)
+アプリケーション解析 (Application analysis); API 発見 (API discovery); アプリケーション列挙 (Application enumeration); 自動スキャン (Automated scanning); CGI スキャン (CGI scanning); クローラー (Crawler); クローリング (Crawling); 発掘 (Excavation); 強制ブラウジング (Forced browsing; Forceful browsing); ファジング (Fuzzing); マイクロサービス発見 (Micro service discovery); スキャン (Scanning); スパイダリング (Spidering); URL ハーベスティング (URL harvesting); WSDL スキャン (WSDL scanning)
 
 ### 関連項目
 * [OAT-004 指紋採取 (Fingerprinting)](OAT-004_Fingerprinting.md)
@@ -47,6 +47,6 @@ OAT-018
 * 45 Fingerprinting
 
 ### OWASP Attack Category / Attack IDs
-* -
+* Forced Browsing
 
 <br/><br/>[OWASP ウェブアプリケーションに対する自動化された脅威プロジェクト](../../../) に戻る。<br/><br/>
