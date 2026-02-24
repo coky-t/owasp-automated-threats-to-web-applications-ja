@@ -18,13 +18,13 @@ OAT-015
 サービス拒否 (Denial of Service)
 
 ### 特徴・特性の概要
-アプリケーションサーバー、データベースサーバー、個々のユーザーアカウントをターゲットにして、サービス拒否 (DoS) を実現します。
+アプリケーションサーバー、データベースサーバー、アカウントをターゲットにして、サービス拒否 (DoS) を実現します。
 
 ### イメージ図
 <img alt="Indicative diagram for OAT-015" src="images/500px-OAT-015_Denial_of_Service.png" style="background-color:#eeeeee;padding:1em;">
 
 ### 解説
-使い方はアプリケーションの正規の使い方と似ているかもしれませんが、ファイルシステム、メモリ、プロセス、スレッド、CPU、人的リソース、金銭的リソースの枯渇につながります。リソースはウェブサーバー、アプリケーションサーバー、データベースサーバー、アプリケーションをサポートするサードパーティ API などのその他のサービス、サードパーティがホストするコンテンツ、コンテンツ配信ネットワーク (CDN) に関連している可能性があります。アプリケーション全体が影響を受ける可能性もあれば、アカウントロックアウトなどの個々のユーザーに対する攻撃の可能性もあります。
+使い方はアプリケーションの正規の使い方と似ているかもしれませんが、パフォーマンスの低下 (速度低下、電圧低下など) や最終的にはファイルシステム、メモリ、プロセス、スレッド、CPU、人的リソース、金銭的リソースなどのリソースの枯渇につながる可能性があります。リソースはウェブサーバー、アプリケーションサーバー、データベースサーバー、アプリケーションをサポートするサードパーティ API などのその他のサービス、サードパーティがホストするコンテンツ、コンテンツ配信ネットワーク (CDN) に関連している可能性があります。アプリケーション全体が影響を受ける可能性もあれば、アカウントロックアウトなどの個々のユーザーに対する攻撃の可能性もあります。
 
 このオントロジーのスコープとしてはウェブアプリケーションに影響を与える他の形態のサービス拒否、すなわち HTTP Flood DoS (GET, POST, Header with/without TLS), HTTP Slow DoS, IP layer 3 DoS, TCP layer 4 DoS を除外しています。これらのプロトコルや低レイヤの側面では他の分類法やリストで十分にカバーされています。
 
@@ -42,19 +42,19 @@ OAT-015
 ### CAPEC Category / Attack Pattern IDs
 * 2 Inducing Account Lockout
 * 25 Forced Deadlock
-* 119 Deplete Resources
+* 488 HTTP Flood
 
 ### CWE Base / Class / Variant IDs
 * 399 Resource Management Errors
 * 645 Overly Restrictive Account Lockout Mechanism
+* 770 Allocation of Resources Without Limits or Throttling
 
 ### WASC Threat IDs
 * 10 Denial of Service
 
 ### OWASP Attack Category / Attack IDs
-* Account Lockout Attack
 * Cash Overflow
 * Denial of Service
-* Resource Depletion
+* Regular Expression Denial of Service
 
 <br/><br/>[OWASP ウェブアプリケーションに対する自動化された脅威プロジェクト](../../../) に戻る。<br/><br/>
