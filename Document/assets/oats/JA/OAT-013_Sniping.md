@@ -26,7 +26,7 @@ OAT-013
 ### 解説
 狙撃の明らかな特徴は、特定の目的を達成するために、他のユーザーが入札やオファーをするのに十分な時間を残さないように、最後の機会に行われるアクションです。狙撃はタイミング攻撃という形でシステム遅延を自動的に悪用することもできます。慎重なタイミングと迅速なアクションが必要となります。オークションスナイピングとしてもっともよく知られていますが、同じ脅威イベントが他の種類のアプリケーションに使用されることがあります。通常、狙撃は他のユーザーに何らかの不利益をもたらし、時にはサービス拒否の一形態とみなされることもありえます。
 
-これに対して [OAT-005 スキャルピング (Scalping)](OAT-005_Scalping.md) は人気のある商品やサービスの入手困難性の獲得であり、 [OAT-006 高速化 (Expediting)](OAT-006_Expediting.html) は一般的な進行を速めるものです。
+これに対して [OAT-005 スキャルピング (Scalping)](OAT-005_Scalping.md) は人気のある商品やサービスの入手困難性の獲得であり、 [OAT-006 高速化 (Expediting)](OAT-006_Expediting.md) は一般的な進行を速めるものです。
 
 ### 他の名称や事例
 オークションスナイピング (Auction sniping); 入札スナイパー (Bid sniper); フロントランニング (Front- running); ラストルック (Last look); 直前入札 (Last minute bet); タイミング攻撃 (Timing attack)
@@ -39,7 +39,7 @@ OAT-013
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * -
