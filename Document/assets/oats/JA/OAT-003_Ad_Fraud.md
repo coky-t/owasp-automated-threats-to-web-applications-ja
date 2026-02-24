@@ -12,7 +12,7 @@ project: true
 
 ## 定義
 ### OWASP Automated Threat (OAT) ID 番号
-OAT-0003
+OAT-003
 
 ### 脅威イベント名
 広告偽装 (Ad Fraud)
@@ -34,13 +34,15 @@ OAT-0003
 
 ### 関連項目
 * [OAT-016 スキューイング (Skewing)](OAT-016_Skewing.md)
+* [OAT-017 スパム行為 (Spamming)](OAT-017_Spamming.md)
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
-* -
+* 799 Improper Control of Interaction Frequency
+* 841 Improper Enforcement of Behavioural Workflow
 
 ### WASC Threat IDs
 * 21 Insufficient Anti-Automation
