@@ -18,7 +18,7 @@ OAT-010
 カードクラッキング (Card Cracking)
 
 ### 特徴・特性の概要
-盗まれたペイメントカードのデータに欠落している開始日/有効期限やセキュリティコードをさまざまな値を試して特定します。
+盗まれたペイメントカードのデータに欠落している開始日/有効期限やセキュリティコードを特定します。
 
 ### イメージ図
 <img alt="Indicative diagram for OAT-010" src="images/500px-OAT-010_Card_Cracking.png" style="background-color:#eeeeee;padding:1em;">
@@ -29,7 +29,7 @@ OAT-010
 これらの値がプライマリアカウント番号 (Primary Account Number, PAN) と同様にわかっている場合、 [OAT-001 カード試行 (Carding)](OAT-001_Carding.md) を使用して詳細を確認し、 [OAT-012 現金引き出し (Cashing Out)](OAT-012_Cashing_Out.md) で商品や現金を手に入れます。
 
 ### 他の名称や事例
-クレジットカード情報のブルートフォース (Brute forcing credit card information); カードブルートフォース (Card brute forcing); クレジットカードクラッキング (Credit card cracking); 分散推測攻撃 (Distributed guessing attack)
+クレジットカード情報のブルートフォース (Brute forcing credit card information); カードブルートフォース (Card brute forcing); クレジットカードクラッキング (Credit card cracking); 分散推測攻撃 (Distributed guessing attack); PAN 列挙 (PAN enumeration)
 
 ### 関連項目
 * [OAT-001 カード試行 (Carding)](OAT-001_Carding.md)
@@ -38,7 +38,7 @@ OAT-010
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
 * 112 Brute Force
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
