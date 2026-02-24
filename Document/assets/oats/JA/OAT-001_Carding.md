@@ -37,7 +37,7 @@ OAT-001
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
