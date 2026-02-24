@@ -32,7 +32,7 @@ OAT-021
 
 
 ### 他の名称や事例
-買い溜め (Hoarding); 全保持攻撃 (Hold all attack); 在庫切れ (Inventory depletion; Inventory exhaustion; Stock exhaustion)
+買い溜め (Hoarding); 全保持攻撃 (Hold all attack); 在庫切れ (Inventory depletion; Inventory exhaustion; Stock exhaustion); 在庫買い溜め (Inventory hoarding); シートスピニング (Seat spinning)
 
 ### 関連項目
 * [OAT-005 スキャルピング (Scalping)](OAT-005_Scalping.md)
@@ -41,7 +41,7 @@ OAT-021
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
