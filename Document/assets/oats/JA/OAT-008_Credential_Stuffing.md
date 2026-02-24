@@ -30,15 +30,16 @@ OAT-008
 
 
 ### 他の名称や事例
-アカウントチェッカー攻撃 (Account checker attack); アカウントチェック (Account checking); アカウントの乗っ取り (Account takeover); アカウント乗っ取り攻撃 (Account takeover attack); ログインスタッフィング (Login Stuffing); パスワードリスト攻撃 (Password list attack); パスワード再利用 (Password re-use); 盗まれた認証情報 (Stolen credentials); 盗まれた認証情報の使用 (Use of stolen credentials)
+アカウントチェッカー攻撃 (Account checker attack); アカウントチェック (Account checking); アカウントの乗っ取り (Account takeover); アカウント乗っ取り攻撃 (Account takeover attack); チェッカー (Checkers); クレデンシャルリプレイ (Credential replay); ログインスタッフィング (Login stuffing); パスワードリスト攻撃 (Password list attack); パスワード再利用 (Password re-use); 盗まれた認証情報 (Stolen credentials); 盗まれた認証情報の使用 (Use of stolen credentials)
 
 ### 関連項目
 * [OAT-007 認証情報クラッキング (Credential Cracking)](OAT-007_Credential_Cracking.md)
 * [OAT-019 アカウント作成 (Account Creation)](OAT-019_Account_Creation.md)
+* [OAT-020 アカウント集約 (Account Aggregation)](OAT-020_Account_Aggregation.md)
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
