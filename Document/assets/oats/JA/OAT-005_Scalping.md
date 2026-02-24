@@ -26,10 +26,10 @@ OAT-005
 ### 解説
 通常のユーザーが手動で実行できない方法で、アプリケーションを使用して商品やサービスを取得します。
 
-スキャルピングは商品やサービスの入手待ちを監視したり、通常のユーザーを打ち負かしてそれらを取得するための迅速なアクションなどがありますが、スキャルピングは [OAT-013 狙撃 (Sniping)](OAT-013_Sniping.md) のような「直前」でのアクションではありませんし、 [OAT-006 高速化 (Expediting)](OAT-006_Expediting.md) のようなユーザーのための自動化に関するものだけでもありません。スキャルピングには人気のある商品やサービスの入手困難性という追加の概念があり、取得したチケットを後で転売して利益を得る転売屋やダフ屋によるチケットビジネスがもっともよく知られています。また、商品やサービスが急激に利用できなくなるため、一種のユーザーサービス拒否につながる可能性もあります。
+スキャルピングは商品やサービスの入手待ちを監視したり、通常のユーザーを打ち負かしてそれらを取得するための迅速なアクションなどがありますが、スキャルピングは [OAT-013 狙撃 (Sniping)](OAT-013_Sniping.md) のような「直前」でのアクションではありませんし、 [OAT-006 高速化 (Expediting)](OAT-006_Expediting.md) のようなユーザーのための自動化に関するものだけでもありません。スキャルピングには人気商品や限定商品あるいはサービスの入手困難性という追加の概念があり、取得したチケットを後で転売して利益を得る転売屋やダフ屋によるチケットビジネスがもっともよく知られています。また、商品やサービスが急激に利用できなくなるため、一種のユーザーサービス拒否につながる可能性もあります。
 
 ### 他の名称や事例
-一括購入 (Bulk purchase); 購入オートマトン (Purchase automaton); 購入ボット (Purchase bot); レストランのテーブルやホテルの部屋の高速予約; キュージャンピング (Queue jumping); セールスタンピード (Sale stampede); 二次チケット販売 (Secondary ticketing); チケット転売 (Ticket resale); チケットスキャルピング (Ticket scalping); チケットダフ屋行為 (Ticket touting)
+一括購入 (Bulk purchase); グリンチボット (Grinch bot); 購入オートマトン/ボット (Purchase automaton/bot); キュージャンピング (Queue jumping); レストランのテーブルやホテルの部屋の高速予約; セールスタンピード (Sale stampede); 二次チケット販売 (Secondary ticketing); スロット予約ボット(Slot-booking bot); スニーカーボット (Sneaker bot); チケット転売 (Ticket resale); チケットスキャルピング (Ticket scalping); チケットダフ屋行為 (Ticket touting); ワクチンボット (Vaccine bot)
 
 ### 関連項目
 * [OAT-006 高速化 (Expediting)](OAT-006_Expediting.md)
@@ -39,7 +39,7 @@ OAT-005
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
