@@ -18,7 +18,7 @@ OAT-020
 アカウント集約 (Account Aggregation)
 
 ### 特徴・特性の概要
-複数のアカウントをまとめて、それらに代わってやり取りする仲介アプリケーションで使用します。
+複数のアカウントをまとめて収集し、それらに代わってやり取りする仲介者により使用します。
 
 ### イメージ図
 <img alt="Indicative diagram for OAT-020" src="images/500px-OAT-020_Account_Aggregation.png" style="background-color:#eeeeee;padding:1em;">
@@ -38,8 +38,7 @@ OAT-020
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 167 Lifting Sensitive Data from the Client
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
