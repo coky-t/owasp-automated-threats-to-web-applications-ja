@@ -18,32 +18,30 @@ OAT-017
 スパム行為 (Spamming)
 
 ### 特徴・特性の概要
-悪意のある情報や疑わしい情報を付加して、公開または非公開のコンテンツ、データベース、ユーザーメッセージに表示します。
+悪意のある情報や疑わしい情報を公開または非公開のコンテンツやメッセージに付加します。
 
 ### イメージ図
 <img alt="Indicative diagram for OAT-017" src="images/500px-OAT-017_Spamming.png" style="background-color:#eeeeee;padding:1em;">
 
 ### 解説
-悪意のあるコンテンツにはマルウェア、IFRAME 配信、写真と動画、広告、リファラースパム、追跡/監視コードなどがあります。コンテンツにそれほど明確に悪意はなくても、いたずらを引き起こしたり、検索エンジン最適化 (SEO) を行ったり、他の投稿を目立たなくしたり隠したりする試みである可能性があります。
+悪意のあるコンテンツにはマルウェア、IFRAME 配信、写真と動画、広告、盗まれた知的財産、リファラースパム、追跡/監視コードなどがあります。コンテンツにそれほど明確に悪意はなくても、いたずらを引き起こしたり、検索エンジン最適化 (SEO) を行ったり、他の投稿を目立たなくしたり隠したりする試みである可能性があります。
 
-不具合のあるフォームから電子メール機能、不具合のあるフォームから SMS 機能を大規模に悪用して、意図しない受信者にメッセージを送信することは、実装上の欠陥のみを悪用したものとみなされるため、この脅威イベントやこのオントロジーの他のイベントには含まれません。
-
-メトリクスを歪めるような複数の使用については、代わりに [OAT-016 スキューイング (Skewing)](OAT-016_Skewing.md) を参照してください。
+不具合のあるフォームから電子メール機能、不具合のあるフォームから SMS 機能を大規模に悪用して、意図しない受信者にメッセージを送信することは、実装上の欠陥のみを悪用したものとみなされるため、この脅威イベントやこのオントロジーの他のイベントには含まれません。課金対象トラフィックを増やすような複数の使用については、OAT-003 ??? を参照してください。メトリクスを歪めるような複数の使用については、代わりに [OAT-016 スキューイング (Skewing)](OAT-016_Skewing.md) を参照してください。
 
 ### 他の名称や事例
-ブログスパム (Blog spam); 掲示板スパム (Bulletin board spam); クリックベイト (Click-bait); コメントスパム (Comment spam); コンテンツスパム (Content spam); コンテンツのなりすまし (Content spoofing); フェイクニュース (Fake news); フォームスパム (Form spam); フォーラムスパム (Forum spam); ゲストブックスパム (Guestbook spam); リファラースパム (Referrer spam); レビュースパム (Review spam); SEO スパム (SEO spam); スパムクローラー (Spam crawlers); スパム 2.0 (Spam 2.0); スパムボット (Spambot); ツイッタースパム (Twitter spam); ウィキスパム (Wiki spam)
+AI 生成コンテンツ (AI generated content); ブログスパム (Blog spam); 掲示板スパム (Bulletin board spam); クリックベイト (Click-bait); コメントスパム (Comment spam); コンテンツスパム (Content spam); コンテンツのなりすまし (Content spoofing); フェイクニュース (Fake news); フォームスパム (Form spam); フォーラムスパム (Forum spam); リファラースパム (Referrer spam); 返信ボット (Reply bot); レビュースパム (Review spam); SEO スパム (SEO spam); ソーシャルメディアボット (Social media bot); スパムボット (Spambot); 合成メディア (Sythetic media); ウィキスパム (Wiki spam)
 
 ### 関連項目
+* OAT-003 ???
 * [OAT-015 サービス拒否 (Denial of Service)](OAT-015_Denial_of_Service.md)
 * [OAT-016 スキューイング (Skewing)](OAT-016_Skewing.md)
 * [OAT-019 アカウント作成 (Account Creation)](OAT-019_Account_Creation.md)
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 210 Abuse of Functionality
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
-* 506 Embedded Malicious Code
 * 799 Improper Control of Interaction Frequency
 * 837 Improper Enforcement of a Single, Unique Action
 
