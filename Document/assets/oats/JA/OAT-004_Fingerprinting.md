@@ -30,10 +30,11 @@ OAT-004
 
 
 ### 他の名称や事例
-グーグルドーキング (Google dorking); グーグルハッキング (Google hacking); ショーダニング (Shodaning); ターゲット獲得 (Target acquisition); ターゲットスキャン (Target scanning); 潜在的に脆弱なアプリケーションの発見 (Finding potentially vulnerable applications); 偵察 (Reconnaissance); URL 収集 (URL harvesting); ウェブアプリケーション指紋採取 (Web application fingerprinting)
+グーグルドーキング (Google dorking); グーグルハッキング (Google hacking); ショーダニング (Shodaning); 潜在的に脆弱なアプリケーションの発見 (Finding potentially vulnerable applications); 脆弱なコンテンツ管理システム (CMS) の特定 (Identifying vulnerable content management systems (CMS)); 偵察 (Reconnaissance); ターゲット獲得 (Target acquisition); ターゲットスキャン (Target scanning); ウェブアプリケーション指紋採取 (Web application fingerprinting)
 
 ### 関連項目
 * [OAT-011 スクレイピング (Scraping)](OAT-011_Scraping.md)
+* [OAT-014 脆弱性スキャン (Vulnerability Scanning)](OAT-014_Vulnerability_Scanning.md)
 * [OAT-018 足跡採取 (Footprinting)](OAT-018_Footprinting.md)
 
 ## クロスリファレンス
@@ -42,7 +43,7 @@ OAT-004
 * 170 Web Application Fingerprinting
 
 ### CWE Base / Class / Variant IDs
-* 200 Information Exposure
+* 200 Exposure of Sensitive Information to an Unauthorised Actor
 
 ### WASC Threat IDs
 * 45 Fingerprinting
