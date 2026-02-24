@@ -24,12 +24,12 @@ OAT-011
 <img alt="Indicative diagram for OAT-011" src="images/500px-OAT-011_Scraping.png" style="background-color:#eeeeee;padding:1em;">
 
 ### 解説
-アプリケーションからアクセス可能なデータや処理されたアウトプットを収集します。スクレイピングの中には偽のアカウントや侵害されたアカウントを使用したり、認証なしで情報にアクセスできるものがあります。スクレイパーはウェブページや API に対してアクセス可能なすべてのパスやパラメータをすべて読み取ろうと試み、そのレスポンスを収集し、そこからデータを抽出します。スクレイピングはリアルタイムで発生することもあれば、実際により断続的なこともあります。スクレイピングの中には暗号解読、リバースエンジニアリング、セッション解析など、どのように構築され、動作するかについての洞察を得るために使用されるものもあります。
+アクセス可能なデータや処理されたアウトプットを収集/コピーし、その後、プロプライエタリデータの悪用や価格操作などに使用します。スクレイピングの中には偽のアカウントや侵害されたアカウントを使用したり、認証なしで情報にアクセスできるものがあります。スクレイパーはウェブページや API に対してアクセス可能なすべてのパスやパラメータをすべて読み取ろうと試み、そのレスポンスを収集し、そこからデータを抽出します。スクレイピングはリアルタイムで発生することもあれば、実際にはより断続的なこともあります。スクレイピングは暗号解読、リバースエンジニアリング、セッション解析など、設計/運用についての知見を得るために使用できます。
 
 ユーザーと実際のアプリケーションの間に別のアプリケーションを介在させている場合は [OAT-020 アカウント集約 (Account Aggregation)](OAT-020_Account_Aggregation.md) を参照してください。現金や商品の取得を目的とする場合は [OAT-012 現金引き出し (Cashing Out)](OAT-012_Cashing_Out.md) を参照してください。
 
 ### 他の名称や事例
-API プロビジョニング (API provisioning); バーゲンハンティング (Bargain hunting); 比較ショッピング (Comparative shopping); コンテンツスクレイピング (Content scraping); データ集約 (Data aggregation); データベーススクレイピング (Database scraping); ファーミング (Farming); ハーベスティング (Harvesting); メタサーチスクレイパー (Meta search scraper); マイニング (Mining); ミラーリング (Mirroring); ページジャッキング (Pagejacking); API パワーリング (Powering APIs); リッピング (Ripping); スクレイパーボット (Scraper bot); スクリーンスクレイピング (Screen scraping); サーチボット/ソーシャルメディアボット (Search / social media bot)
+AI RAG ボット (AI RAG bot); API プロビジョニング (API provisioning); バーゲンハンティング (Bargain hunting); 比較ショッピング (Comparative shopping); コンテンツスクレイピング (Content scraping); データ集約 (Data aggregation); データベーススクレイピング (Database scraping); ファーミング (Farming); ハーベスティング (Harvesting); LLM/AI スクレイパー (LLM/AI scraper); LLM トレーニングボット (LLM training bot); メタサーチスクレイパー (Meta search scraper); マイニング (Mining); ミラーリング (Mirroring); ページジャッキング (Pagejacking); リッピング (Ripping); スクリーンスクレイピング (Screen scraping); サブスクライバスヌーピング (Subscriber snooping); ウェブクローラ (Web crawler)
 
 ### 関連項目
 * [OAT-012 現金引き出し (Cashing Out)](OAT-012_Cashing_Out.md)
@@ -38,9 +38,7 @@ API プロビジョニング (API provisioning); バーゲンハンティング 
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
-* 167 Lifting Sensitive Data from the Client
-* 210 Abuse of Functionality
-* 281 Analyze Target
+* 210 Abuse Existing Functionality
 
 ### CWE Base / Class / Variant IDs
 * 799 Improper Control of Interaction Frequency
