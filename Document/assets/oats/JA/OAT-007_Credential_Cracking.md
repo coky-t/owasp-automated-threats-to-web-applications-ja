@@ -24,26 +24,26 @@ OAT-007
 <img alt="Indicative diagram for OAT-007" src="images/500px-OAT-007_Credential_Cracking.png" style="background-color:#eeeeee;padding:1em;">
 
 ### 解説
-ブルートフォース攻撃、辞書 (単語リスト) 攻撃、推測攻撃をアプリケーションの認証プロセスに使用して、有効なアカウント認証情報を特定します。これには一般的なユーザー名やパスワードを利用したり、初期ユーザー名の評価に関連することがあります。
+ブルートフォース攻撃、辞書 (単語リスト) 攻撃、推測攻撃をアプリケーションの認証プロセスに使用して、有効なアカウント認証情報を特定します。これには一般的なユーザー名やパスワードを利用したり、初期ユーザー名の評価に関連することがあります。ユーザー名が電子メールアドレスであるウェブサイトで、電子メールサブスクリプションに登録するために電子メールアドレスのリストを試すなど、必ずしも直接認証とはみなされない機能を悪用する可能性があります。
 
-盗まれた認証情報セット (ユーザー名とパスワードのペア) を使用して、一つ以上のサービスで認証を行うことは [OAT-008 認証情報スタッフィング (Credential Stuffing)](OAT-008_Credential_Stuffing.md) になります。
+盗まれた認証情報セット (ユーザー名とパスワードのペア) を使用して、一つ以上のサービスで認証を行うことは [OAT-008 認証情報スタッフィング (Credential Stuffing)](OAT-008_Credential_Stuffing.md) になります。他の場所で使用するためにユーザー (電子メールアドレスなど) を特定するためだけのプロセスを使用することは [OAT-011 スクレイピング (Scraping)](OAT-011_Scraping.md) になります。
 
 
 ### 他の名称や事例
-サインインに対するブルートフォース攻撃 (Brute-force attacks against sign-in); ログイン認証情報のブルートフォース (Brute forcing log-in credentials); ブルートフォースパスワードクラッキング (Brute-force password cracking); ログイン認証情報のクラッキング (Cracking login credentials); パスワードブルートフォース (Password brute-forcing); パスワードクラッキング (Password cracking); リバースブルートフォース攻撃 (Reverse brute force attack); ユーザー名クラッキング (Username cracking); ユーザー名列挙 (Username enumeration)
+ログイン認証情報のブルートフォース (Brute forcing log-in credentials); ブルートフォースパスワードクラッキング (Brute-force password cracking); ログイン認証情報のクラッキング (Cracking login credentials); メーリングリストスタッフィング (Mailing list stuffing); パスワードブルートフォース (Password brute-forcing); パスワードクラッキング (Password cracking); パスワードスプレー (Password spraying); リバースブルートフォース攻撃 (Reverse brute force attack); ユーザー名クラッキング (Username cracking); ユーザー名列挙 (Username enumeration)
 
 ### 関連項目
-* [OAT-002 トークンクラッキング (Token Cracking)](OAT-002_Token_Cracking.html)
-* [OAT-008 認証情報スタッフィング (Credential Stuffing)](OAT-008_Credential_Stuffing.html)
-* [OAT-019 アカウント作成 (Account Creation)](OAT-019_Account_Creation.html)
+* [OAT-002 トークンクラッキング (Token Cracking)](OAT-002_Token_Cracking.md)
+* [OAT-008 認証情報スタッフィング (Credential Stuffing)](OAT-008_Credential_Stuffing.md)
+* [OAT-019 アカウント作成 (Account Creation)](OAT-019_Account_Creation.md)
+* [OAT-020 アカウント集約 (Account Aggregation)](OAT-020_Account_Aggregation.md)
 
 ## クロスリファレンス
 ### CAPEC Category / Attack Pattern IDs
 * 16 Dictionary-based Password Attack
 * 49 Password Brute Forcing
-* 70 Try Common(default) Usernames and Passwords
+* 70 Try Common or Default Usernames and Passwords
 * 112 Brute Force
-
 
 ### CWE Base / Class / Variant IDs
 * 307 Improper Restriction of Excessive Authentication Attempts
@@ -56,7 +56,7 @@ OAT-007
 * 42 Abuse of Functionality
 
 ### OWASP Attack Category / Attack IDs
-* Abuse of Functionality
 * Brute Force Attack
+* Password Spraying
 
 <br/><br/>[OWASP ウェブアプリケーションに対する自動化された脅威プロジェクト](../../../) に戻る。<br/><br/>
