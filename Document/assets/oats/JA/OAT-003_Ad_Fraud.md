@@ -15,7 +15,7 @@ project: true
 OAT-003
 
 ### 脅威イベント名
-広告偽装 (Ad Fraud)
+広告偽装 (Ad Fraud) (廃止 - v1.3 では OAT-003 は [コストインフレ詐欺 (Cost-Inflation Fraud)](OAT-003_Cost-Inflation_Fraud.md) に名称変更しました)
 
 ### 特徴・特性の概要
 ウェブ掲載広告の偽装クリックや偽装表示です。
