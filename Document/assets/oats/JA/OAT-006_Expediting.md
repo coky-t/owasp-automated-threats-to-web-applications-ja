@@ -29,7 +29,7 @@ OAT-006
 メトリクスに影響を与える [OAT-016 スキューイング (Skewing)](OAT-016_Skewing.md) とは対照的に、高速化は純粋に一連のアプリケーションプロセスの進行をより速くすることだけに関連しています。また [OAT-017 スパム行為 (Spamming)](OAT-017_Spamming.md) は高速化とは異なります。スパムの焦点は情報を追加することであり、プロセス進行の概念を伴わない可能性があります。
 
 ### 他の名称や事例
-AI エージェント (AI agent); アルゴリズム取引 (Algorithmic trading); 自動株式取引 (Automated stock trading); 賭けの自動化 (Betting automation); ゲームの自動化 (Game automation); ゲーミングボット (Gaming bot); ゴールドファーミング (Gold farming); 金融商品取引 (Financial instrument dealing); 高頻度取引 (High frequency trading); ラストルック取引 (Last look trade); マイニング (Mining); 購入の自動化 (Purchase automation); チケット購入の自動化 (Ticketing automation); 取引の自動化 (Trading automation); 仮想資産生成ボット (Virtual wealth generation bot)
+アルゴリズム取引 (Algorithmic trading); 自動株式取引 (Automated stock trading); 賭けの自動化 (Betting automation); ゲームの自動化 (Game automation); ゲーミングボット (Gaming bot); ゴールドファーミング (Gold farming); 金融商品取引 (Financial instrument dealing); 高頻度取引 (High frequency trading); ラストルック取引 (Last look trade); マイニング (Mining); 購入の自動化 (Purchase automation); チケット購入の自動化 (Ticketing automation); 取引の自動化 (Trading automation); 仮想資産生成ボット (Virtual wealth generation bot)
 
 ### 関連項目
 * [OAT-005 スキャルピング (Scalping)](OAT-005_Scalping.md)
