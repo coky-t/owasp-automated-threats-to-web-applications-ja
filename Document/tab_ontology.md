@@ -17,15 +17,15 @@ tags: oat
 ---------|----------|-----------------------------------
 [OAT-020](assets/oats/JA/OAT-020_Account_Aggregation.md) | アカウント集約 (Account Aggregation) | 複数のアカウントをまとめて、それらに代わってやり取りする仲介アプリケーションで使用します
 [OAT-019](assets/oats/JA/OAT-019_Account_Creation.md) | アカウント作成 (Account Creation) | その後の不正使用のために複数のアカウントを作成します
-[OAT-003](assets/oats/JA/OAT-003_Ad_Fraud.md) | 広告偽装 (Ad Fraud) | ウェブ掲載広告の偽装クリックや偽装表示です
+[OAT-003](assets/oats/JA/OAT-003_003_Cost-Inflation_Fraud.md) | コストインフレ詐欺 (Cost-Inflation Fraud) | 機能を大量に使用して、有料サポートサービスから不正に利益を得ます
 [OAT-009](assets/oats/JA/OAT-009_CAPTCHA_Defeat.md) | CAPTCHA 破り (CAPTCHA Defeat) | 自動化防止テストを解決します
-[OAT-010](assets/oats/JA/OAT-010_Card_Cracking.md) | カードクラッキング (Card Cracking) | 盗まれたペイメントカードのデータに欠落している開始日/有効期限やセキュリティコードをさまざまな値を試して特定します
+[OAT-010](assets/oats/JA/OAT-010_Card_Cracking.md) | カードクラッキング (Card Cracking) | 盗まれたペイメントカードのデータに欠落している開始日/有効期限やセキュリティコードを特定します
 [OAT-001](assets/oats/JA/OAT-001_Carding.md) | カード試行 (Carding) | 複数回の支払い承認を試行して、盗まれた大量のペイメントカードデータの有効性を検証します
 [OAT-012](assets/oats/JA/OAT-012_Cashing_Out.md) | 現金引き出し (Cashing Out) | 検証済みの盗まれたペイメントカードやその他のユーザーアカウントデータを利用して、商品を購入したり、現金を取得したりします
 [OAT-007](assets/oats/JA/OAT-007_Credential_Cracking.md) | 認証情報クラッキング (Credential Cracking) | ユーザー名やパスワードにさまざまな値を試すことで、有効なログイン認証情報を特定します
 [OAT-008](assets/oats/JA/OAT-008_Credential_Stuffing.md) | 認証情報スタッフィング (Credential Stuffing) | 大量のログインを試行して、盗まれたユーザー名とパスワードのペアの有効性を検証します
 [OAT-021](assets/oats/JA/OAT-021_Denial_of_Inventory.md) | 在庫拒否 (Denial of Inventory) | 購入を完了することなく、または取引をコミットすることなく、商品やサービスの在庫を使い果たします
-[OAT-015](assets/oats/JA/OAT-015_Denial_of_Service.md) | サービス拒否 (Denial of Service) | アプリケーションサーバー、データベースサーバー、個々のユーザーアカウントをターゲットにして、サービス拒否 (DoS) を実現します
+[OAT-015](assets/oats/JA/OAT-015_Denial_of_Service.md) | サービス拒否 (Denial of Service) | アプリケーションサーバー、データベースサーバー、個々のユーザーアカウントをターゲットにして、可用性を低下します
 [OAT-006](assets/oats/JA/OAT-006_Expediting.md) | 高速化 (Expediting) | 一般的に遅く、退屈で、時間のかかるアクションの進行を速めるアクションを実行します
 [OAT-004](assets/oats/JA/OAT-004_Fingerprinting.md) | 指紋採取 (Fingerprinting) | サポートしているソフトウェアとフレームワークのタイプとバージョンに関する情報を引き出します
 [OAT-018](assets/oats/JA/OAT-018_Footprinting.md) | 足跡採取 (Footprinting) | アプリケーションを調査および探索し、構成要素やプロパティを特定します
@@ -33,7 +33,7 @@ tags: oat
 [OAT-011](assets/oats/JA/OAT-011_Scraping.md) | スクレイピング (Scraping) | アプリケーションのコンテンツやその他のデータを他の場所で使用するために収集します
 [OAT-016](assets/oats/JA/OAT-016_Skewing.md) | スキューイング (Skewing) | リンククリック、ページリクエスト、フォーム送信を繰り返して、なんらかのメトリクスを改変します
 [OAT-013](assets/oats/JA/OAT-013_Sniping.md) | 狙撃 (Sniping) | 商品やサービスに対して直前に入札やオファーをします
-[OAT-017](assets/oats/JA/OAT-017_Spamming.md) | スパム行為 (Spamming) | 悪意のある情報や疑わしい情報を付加して、公開または非公開のコンテンツ、データベース、ユーザーメッセージに表示します
+[OAT-017](assets/oats/JA/OAT-017_Spamming.md) | スパム行為 (Spamming) | 公開または非公開のコンテンツやメッセージに悪意のある情報や疑わしい情報を付加します
 [OAT-002](assets/oats/JA/OAT-002_Token_Cracking.md) | トークンクラッキング (Token Cracking) | クーポン番号、バウチャーコード、割引トークンなどを大量列挙します
 [OAT-014](assets/oats/JA/OAT-014_Vulnerability_Scanning.md) | 脆弱性スキャン (Vulnerability Scanning) | アプリケーションをクロールおよびファジングして、弱点や潜在的な脆弱性を特定します
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp; | &nbsp;
