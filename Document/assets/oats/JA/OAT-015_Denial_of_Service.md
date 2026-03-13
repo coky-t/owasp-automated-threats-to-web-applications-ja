@@ -18,7 +18,7 @@ OAT-015
 サービス拒否 (Denial of Service)
 
 ### 特徴・特性の概要
-アプリケーションサーバー、データベースサーバー、アカウントをターゲットにして、サービス拒否 (DoS) を実現します。
+アプリケーションサーバー、データベースサーバー、個人ユーザーアカウントをターゲットにして、可用性を低下します。
 
 ### イメージ図
 <img alt="Indicative diagram for OAT-015" src="images/500px-OAT-015_Denial_of_Service.png" style="background-color:#eeeeee;padding:1em;">
