@@ -49,6 +49,6 @@ OAT-004
 * 45 Fingerprinting
 
 ### OWASP Attack Category / Attack IDs
-* -
+* —
 
 <br/><br/>[OWASP ウェブアプリケーションに対する自動化された脅威プロジェクト](../../../) に戻る。<br/><br/>
