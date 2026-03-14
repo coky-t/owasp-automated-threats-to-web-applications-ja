@@ -26,13 +26,13 @@ OAT-016
 ### 解説
 クリックやリクエストやコンテンツ送信を自動的に繰り返して、頻度や割合のカウントや測定値などのアプリケーションベースのメトリクスに影響を与えます。これらの一部はより広範な社会的意味を持つ可能性があります。メトリクスや測定値はユーザーに見えるもの (入札オッズ、いいねの数、市場の動的価格、訪問者数、投票結果、レビューなど) もありますし、見えないもの (アプリケーション使用統計、ビジネス業績評価指標など) もあります。メトリクスはアプリケーション所有者だけでなく、個人や組織にも影響を影響を与える可能性があります。たとえば、ユーザーの評判の改変、意見の誇張、違法コンテンツの拡散、他者への影響、名声の獲得、他者の評判を下げることなどがあります。
 
-デジタル広告のメトリクスを悪意を持って改変する場合は、[OAT-003 広告偽装 (Ad Fraud)](OAT-003_Ad_Fraud.md) を参照してください。
+悪質なコストのインフレについては、[OAT-003 コストインフレ詐欺 (Cost-Inflation Fraud)](OAT-003_Cost-Inflation_Fraud.md) を参照してください。
 
 ### 他の名称や事例
 AI ボット (AI bot); アナリティクスポイズニング (Analytics poisoning); KPI バイアス (Biasing KPIs); 友達/いいねの増強 (Boosting friends/likes); クリック偽装 (Click fraud); 動的価格ハッキング (Dynamic pricing hacking); 選挙偽装 (Election fraud); ヒットカウント偽装 (Hit count fraud); 市場の歪み (Market distortion); メトリクスと統計のスキューイング (Metric and statistic skewing); ページインプレッション偽装 (Page impression fraud); 投票/レーティング/レビュー偽装 (Poll/rating/review fraud); SEO; 株式操作 (Stock manipulation); 調査スキューイング (Survey skewing); 合成ソーシャルメディアの影響 (Synthetic social media influence)
 
 ### 関連項目
-* [OAT-003 広告偽装 (Ad Fraud)](OAT-003_Ad_Fraud.md)
+* [OAT-003 コストインフレ詐欺 (Cost-Inflation Fraud)](OAT-003_Cost-Inflation_Fraud.md)
 * [OAT-017 スパム行為 (Spamming)](OAT-017_Spamming.md)
 * [OAT-019 アカウント作成 (Account Creation)](OAT-019_Account_Creation.md)
 
