@@ -18,7 +18,7 @@ OAT-015
 サービス拒否 (Denial of Service)
 
 ### 特徴・特性の概要
-アプリケーションサーバー、データベースサーバー、個人ユーザーアカウントをターゲットにして、可用性を低下します。
+あらゆる種類のリソース使用または個々のユーザーアカウントををターゲットにして、アプリケーションの可用性を低下します。
 
 ### イメージ図
 <img alt="Indicative diagram for OAT-015" src="images/500px-OAT-015_Denial_of_Service.png" style="background-color:#eeeeee;padding:1em;">
@@ -29,7 +29,7 @@ OAT-015
 このオントロジーのスコープとしてはウェブアプリケーションに影響を与える他の形態のサービス拒否、すなわち HTTP Flood DoS (GET, POST, Header with/without TLS), HTTP Slow DoS, IP layer 3 DoS, TCP layer 4 DoS を除外しています。これらのプロトコルや低レイヤの側面では他の分類法やリストで十分にカバーされています。
 
 ### 他の名称や事例
-アカウントロックアウト (Account lockout); アプリレイヤ DDoS (App layer DDoS); 非対称リソース消費 (増幅) (Asymmetric resource consumption (amplification)); ビジネスロジック DDoS (Business logic DDoS); 現金オーバーフロー (Cash overflow); 強制デッドロック (Forced deadlock); ハッシュ DoS (Hash DoS); 非効率なコード (Inefficient code); インデクサ DoS (Indexer DoS); 大容量ファイル DoS (Large files DoS); リソース枯渇 (Resource depletion, locking or exhaustion); 持続的クライアントエンゲージメント (Sustained client engagement)
+アカウントロックアウト (Account lockout); アプリレイヤ DDoS (App layer DDoS); 非対称リソース消費 (増幅) (Asymmetric resource consumption (amplification)); ビジネスロジック DDoS (Business logic DDoS); 現金オーバーフロー (Cash overflow); ウォレット拒否 (Denial of wallet); 強制デッドロック (Forced deadlock); ハッシュ DoS (Hash DoS); インデクサ DoS (Indexer DoS); 大容量ファイル DoS (Large files DoS); リソース枯渇 (Resource depletion, locking or exhaustion); 制限のない消費 (Unbounded consumption)
 
 ### 関連項目
 * [OAT-005 スキャルピング (Scalping)](OAT-005_Scalping.md)
