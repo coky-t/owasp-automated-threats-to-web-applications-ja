@@ -29,7 +29,7 @@ OAT-020
 コンテンツの配布など他の形式のデータ収集については [OAT-011 スクレイピング (Scraping)](OAT-011_Scraping.md) を参照してください。進行を速めるには、代わりに [OAT-006 高速化 (Expediting)](OAT-006_Expediting.md) を参照してください。
 
 ### 他の名称や事例
-アグリゲーター (Aggregator); 仲介 (Brokering); クライアントアグリゲーター (Client aggregator); クラウドサービス仲介 (Cloud services brokerage); データ集約 (Data aggregation); 金融アカウントアグリゲーター (Financial account aggregator); 仲介 (Intermediarisation; Intermediation)
+アグリゲーター (Aggregator); アシスタント (Assistant); 仲介 (Brokering); クライアントアグリゲーター (Client aggregator); クラウドサービス仲介 (Cloud services brokerage); データ集約 (Data aggregation); 金融アカウントアグリゲーター (Financial account aggregator); 仲介 (Intermediarisation; Intermediation)
 
 ### 関連項目
 * [OAT-006 高速化 (Expediting)](OAT-006_Expediting.md)
