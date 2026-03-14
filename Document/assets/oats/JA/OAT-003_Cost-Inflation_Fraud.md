@@ -30,7 +30,7 @@ API 使用イベント (例: マッピング、検索、AI 呼び出し、メッ
 
 
 ### 他の名称や事例
-API 使用のインフレ (API usage inflation); 人工的に膨らませたトラフィック (Artificially Inflated Traffic, AIT); 広告偽装 (Advert fraud); アドウェアトラフィック (Adware traffic); クリックボット (Click bot); クリック偽装 (Click fraud); ヒット偽装 (Hit fraud); インプレッション偽装 (Impression fraud); クリック課金型広告の不正使用 (Pay per click advertising abuse); 偽装広告トラフィック (Phoney ad traffic); SMS ポンピング (SMS Pumping); トール詐欺 (Toll fraud); 移転価格 (Transfer pricing)
+API 使用のインフレ (API usage inflation); 人工的に膨らませたトラフィック (Artificially Inflated Traffic, AIT); 広告偽装 (Advert fraud); アドウェアトラフィック (Adware traffic); クリックボット (Click bot); クリック偽装 (Click fraud); ヒット偽装 (Hit fraud); インプレッション偽装 (Impression fraud); クリック課金型広告の不正使用 (Pay per click advertising abuse); 偽装広告トラフィック (Phoney ad traffic); SMS ポンピング (SMS pumping); トール詐欺 (Toll fraud); 移転価格 (Transfer pricing)
 
 ### 関連項目
 * [OAT-016 スキューイング (Skewing)](OAT-016_Skewing.md)
