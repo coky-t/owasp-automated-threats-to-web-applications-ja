@@ -2,7 +2,7 @@
 
 * [OAT-020 アカウント集約 (Account Aggregation)](OAT-020_Account_Aggregation.md)
 * [OAT-019 アカウント作成 (Account Creation)](OAT-019_Account_Creation.md)
-* [OAT-003 広告偽装 (Ad Fraud)](OAT-003_Ad_Fraud.md)
+* [OAT-003 コストインフレ詐欺 (Cost-Inflation Fraud)](OAT-003_Cost-Inflation_Fraud.md)
 * [OAT-009 CAPTCHA 破り (CAPTCHA Defeat)](OAT-009_CAPTCHA_Defeat.md)
 * [OAT-010 カードクラッキング (Card Cracking)](OAT-010_Card_Cracking.md)
 * [OAT-001 カード試行 (Carding)](OAT-001_Carding.md)
