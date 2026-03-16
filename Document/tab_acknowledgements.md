@@ -13,6 +13,7 @@ tags: oat
 * Sumit Agarwal
 * Areejit Banerjee
 * Jason Chan
+* Cassio Goldschmidt
 * Mark Hall
 * Omri Iluz
 * José Santos Martins Pereira
@@ -26,7 +27,7 @@ tags: oat
 
 さらに他の専門家仲間やウェブサイトのオーナーやオペレーターからもフィードバックをいただきました。
 
-### レビュー担当者
+### v1.0 のレビュー担当者
 * Igor Andriushchenko
 * Gabriel Mendez Justiniano
 * Matt Tesauro
